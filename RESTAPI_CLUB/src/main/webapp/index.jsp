@@ -5,6 +5,7 @@
     <p>Visit <a href="http://jersey.java.net">Project Jersey website</a>
     for more information on Jersey!
     <p><a href="webapi/myresource/hi">Hi request</a>  
-    <p><a href="webapi/myresource/getParticipants">Get Participants</a>  
+    <p><a href="webapi/myresource/getParticipants">Get Participants</a>
+    <p><a href="http://jersey.java.net">Jersey</a>  
 </body>
 </html>
